@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TotalWater {
+public class Methods {
     public static int calculateTotal(int morningUsage, int eveningUsage) {
         return morningUsage + eveningUsage;
     }
