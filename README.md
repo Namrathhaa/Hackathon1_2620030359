@@ -13,14 +13,20 @@ Use appropriate Java data types for each value and display all the details.
 SAMPLE OUTPUT
 
 Enter number of family members: 4
+
 Enter water consumed in litres: 450.5
+
 Enter house number: 102
+
 Enter water usage status: A
 
 Household Details
 Family Members: 4
+
 Water Consumed: 450.5 litres
+
 House Number: 102
+
 Usage Status: A
 
 1b) If-Else Condition:
@@ -36,11 +42,13 @@ SAMPLE OUTPUT
 Output 1: When water consumption is less than or equal to 500 litres
 
 Enter water consumption in litres: 400
+
 Water Bill: Rs.100
 
 Output 2: When water consumption is more than 500 litres
 
 Enter water consumption in litres: 700
+
 Water Bill: Rs.200
 
 1c) Methods:
@@ -55,5 +63,7 @@ The method should return the total water consumption. Read the morning and eveni
 SAMPLE OUTPUT 
 
 Enter morning water usage: 300
+
 Enter evening water usage: 200
+
 Total water consumption: 500 litres
