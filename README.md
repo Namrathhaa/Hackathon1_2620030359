@@ -1,5 +1,7 @@
 #Hackathon1_2620030359
+
 Question 1: Household Water-Usage & Billing Monitor
+
 1a) Data Types:
 
 Write a Java program to store and display the following details of a household:
