@@ -92,14 +92,24 @@ Use separate methods for each operation. Do not perform all the calculations dir
 SAMPLE OUTPUT 
 
 Enter Account Number: 101
+
 Enter Account Holder Name: Namratha
+
 Enter Initial Balance: 5000
+
 Enter Amount to deposit: 20000
+
 Amount deposited: 20000.0
+
 Enter Amount to withdraw: 10000
+
 Amount withdrawn: 10000.0
 
+
  Account Details
+
 Account Number: 101
+
 Account Holder Name: Namratha
+
 Balnce: 15000.0
