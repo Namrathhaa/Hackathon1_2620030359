@@ -69,3 +69,37 @@ Enter morning water usage: 300
 Enter evening water usage: 200
 
 Total water consumption: 500 litres
+
+
+HACKATHON 2
+
+Write a Java program to implement a Bank Account Management System.
+
+Create a class named BankAccount with the following data members: accountNumber, accountHolderName and balance.
+
+Create a parameterized constructor to initialize all the account details.
+
+Implement the following methods:
+
+deposit(double amount) - Adds the given amount to the balance.
+withdraw(double amount) - Withdraws money only if sufficient balance is available.
+checkBalance() - Returns the current balance.
+displayAccount() - Displays account details and balance.
+In the main() method, read the account details and initial balance. Create an object using the parameterized constructor. Perform one deposit and one withdrawal operation and display the final account details.
+
+Use separate methods for each operation. Do not perform all the calculations directly inside the main() method.
+
+SAMPLE OUTPUT 
+
+Enter Account Number: 101
+Enter Account Holder Name: Namratha
+Enter Initial Balance: 5000
+Enter Amount to deposit: 20000
+Amount deposited: 20000.0
+Enter Amount to withdraw: 10000
+Amount withdrawn: 10000.0
+
+ Account Details
+Account Number: 101
+Account Holder Name: Namratha
+Balnce: 15000.0
